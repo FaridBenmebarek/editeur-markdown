@@ -1,0 +1,12 @@
+body {
+  font-family: "Comic Sans MS", sans-serif;
+  background-color: cornflowerblue;
+  color: white;
+}
+.container {
+  margin-top: 24px;
+}
+.titre {
+  width: 100%;
+  text-align: center;
+}
